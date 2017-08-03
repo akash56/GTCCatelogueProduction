@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GTC Catelogue Production</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="spirit_cat">
+        <item>Blended Whiskey</item>
+        <item>Single Malt Whiskey</item>
+        <item>Vodka</item>
+        <item>Rum</item>
+        <item>Gin</item>
+        <item>Tequila</item>
+        <item>Liquor</item>
+    </string-array>
+    <array name="pics">
+        <item>@drawable/blended</item>
+        <item>@drawable/singlemalt</item>
+        <item>@drawable/vodka</item>
+        <item>@drawable/rum</item>
+        <item>@drawable/gin</item>
+        <item>@drawable/tequila</item>
+        <item>@drawable/liqueurs</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_detail_activity">Detail_activity</string>
+
+</resources>
